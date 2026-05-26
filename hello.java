@@ -82,3 +82,18 @@ class Lecture2
 
     }
 }
+
+// Lecture 3
+class Lecture3
+{
+    public static void main(){
+        // loop--- while, do loop, for loop
+
+        int i = 1;
+        while(i<5)
+        {
+            System.out.println("repating..");
+            i++;
+        }
+    }
+}
